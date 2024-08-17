@@ -1,0 +1,22 @@
+.resume {
+    position: relative; 
+    
+    padding: 20px; 
+}
+
+.profile-pic {
+    position: absolute; 
+    top: 20px;
+    right: 20px; 
+    border-radius: 50%; 
+    overflow: hidden; 
+    width: 100px; 
+    height: 100px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+}
+
+.profile-pic img {
+    width: 100%;
+    height: auto; 
+    display: block; 
+}
